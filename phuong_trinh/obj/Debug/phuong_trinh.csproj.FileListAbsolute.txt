@@ -1,0 +1,7 @@
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\bin\Debug\phuong_trinh.exe.config
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\bin\Debug\phuong_trinh.exe
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\bin\Debug\phuong_trinh.pdb
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\obj\Debug\phuong_trinh.csproj.AssemblyReference.cache
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\obj\Debug\phuong_trinh.csproj.CoreCompileInputs.cache
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\obj\Debug\phuong_trinh.exe
+D:\C#\project\LTTMTWD\BTVN1\Bua10\phuong_trinh\obj\Debug\phuong_trinh.pdb
