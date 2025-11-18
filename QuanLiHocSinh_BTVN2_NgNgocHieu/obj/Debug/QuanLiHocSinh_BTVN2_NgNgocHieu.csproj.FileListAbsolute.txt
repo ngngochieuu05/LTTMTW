@@ -1,0 +1,8 @@
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\bin\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.exe.config
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\bin\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.exe
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\bin\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.pdb
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\obj\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.csproj.AssemblyReference.cache
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\obj\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.csproj.CoreCompileInputs.cache
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\obj\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.exe
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\obj\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.pdb
+D:\C#\project\LTTMTWD\BTVN1\Bua2\QuanLiHocSinh_BTVN2_NgNgocHieu\obj\Debug\QuanLiHocSinh_BTVN2_NgNgocHieu.exe.config
