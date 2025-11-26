@@ -1,0 +1,11 @@
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\bin\Debug\BTVN3_NgNgocHieu.exe.config
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\bin\Debug\BTVN3_NgNgocHieu.exe
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\bin\Debug\BTVN3_NgNgocHieu.pdb
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.csproj.AssemblyReference.cache
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.Properties.Resources.resources
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.csproj.GenerateResource.cache
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.csproj.CoreCompileInputs.cache
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.exe
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.pdb
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.exe.config
+D:\C#\project\TH_LTTMTWD\BTVN3_NgNgocHieu\obj\Debug\BTVN3_NgNgocHieu.frmQuanLiSinhVien.resources
