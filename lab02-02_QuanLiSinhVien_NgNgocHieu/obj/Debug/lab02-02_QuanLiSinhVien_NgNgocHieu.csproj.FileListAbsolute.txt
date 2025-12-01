@@ -1,0 +1,11 @@
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\bin\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.exe.config
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\bin\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.exe
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\bin\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.pdb
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.csproj.AssemblyReference.cache
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02_02_QuanLiSinhVien_NgNgocHieu.Properties.Resources.resources
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.csproj.GenerateResource.cache
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.csproj.CoreCompileInputs.cache
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.exe
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.pdb
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02-02_QuanLiSinhVien_NgNgocHieu.exe.config
+D:\C#\project\TH_LTTMTWD\Bua1\lab02-02_QuanLiSinhVien_NgNgocHieu\obj\Debug\lab02_02_QuanLiSinhVien_NgNgocHieu.frmQuanLiSinhVien_Load.resources
