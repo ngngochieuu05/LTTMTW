@@ -1,0 +1,11 @@
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\BTVN5_NgNgocHieu.csproj.AssemblyReference.cache
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\lienketdatabase.SoanThaoVanBan_NgNgocHieu.resources
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\lienketdatabase.Properties.Resources.resources
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\BTVN5_NgNgocHieu.csproj.GenerateResource.cache
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\BTVN5_NgNgocHieu.csproj.CoreCompileInputs.cache
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\bin\Debug\lienketdatabase.exe.config
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\bin\Debug\lienketdatabase.exe
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\bin\Debug\lienketdatabase.pdb
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\lienketdatabase.exe
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\lienketdatabase.pdb
+D:\C#\project\TH_LTTMTWD\Bua1\lienketdatabase\obj\Debug\lienketdatabase.exe.config
