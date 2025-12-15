@@ -1,0 +1,12 @@
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\DAL.dll.config
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\DAL.dll
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\DAL.pdb
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\EntityFramework.dll
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\EntityFramework.xml
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\obj\Debug\DAL.dll
+D:\C#\project\TH_LTTMTWD\Bua1\EF_BT6_NgNgocHieu\DAL\obj\Debug\DAL.pdb
